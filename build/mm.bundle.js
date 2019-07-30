@@ -71104,7 +71104,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "feicommobile",
-    "siteurl": "https://feicom.co.ke",
+    "siteurl": "https://feicom.co.ke/login/index.php",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
