@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165312625704",
+    "firebase_url": "https://kenyaexams-5b632.firebaseio.com",
+    "project_id": "kenyaexams-5b632",
+    "storage_bucket": "kenyaexams-5b632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165312625704:android:9607dd563bc7c12c",
+        "android_client_info": {
+          "package_name": "com.kenyaexams.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165312625704-gr3ch6bopgofcmv8j3jip4fl4jm8tuog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGL5q7DKrd3qsxW7P6H6zOhXj2srEcHd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165312625704-gr3ch6bopgofcmv8j3jip4fl4jm8tuog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
