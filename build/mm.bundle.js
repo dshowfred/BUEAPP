@@ -71092,9 +71092,9 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.feicom.mobile",
-    "appname": "Feicom Mobile",
-    "desktopappname": "Feicom Desktop",
+    "app_id" : "com.feilan.mobile",
+    "appname": "Feilan Mobile",
+    "desktopappname": "Feilan Desktop",
     "versioncode" : "1000",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
@@ -71103,8 +71103,8 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "656841516657",
-    "customurlscheme": "feicommobile",
-    "siteurl": "https://feicom.co.ke",
+    "customurlscheme": "feilanmobile",
+    "siteurl": "https://feilan.org",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",

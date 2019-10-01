@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.feicom.mobile"
+        id        = "com.feilan.mobile"
         versionCode = "1000"
         android-versionCode="1000"
         version   = "1.0.0">
-    <name>Feicom</name>
+    <name>Feilan</name>
 
-    <description>Feicom learning base official app</description>
+    <description>Feilan E-leraning</description>
 
     <author href="www.odoo.co.ke" email="dshowfred@gmail.com">Metro ICT</author>
     
