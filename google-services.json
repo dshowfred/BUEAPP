@@ -34,6 +34,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656841516657:android:1279482bfcd967be911dd0",
+        "android_client_info": {
+          "package_name": "com.feilan.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656841516657-ti3lga1jm8iqa8rcoj96q4kuu110rpbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDTHwEtnqDq2I4PLNL_abQDtjJwbyui4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656841516657-ti3lga1jm8iqa8rcoj96q4kuu110rpbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
