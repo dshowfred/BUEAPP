@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.kenyaexams.mobile"
-        versionCode = "1000"
-        android-versionCode="1000"
+        versionCode = "1"
+        android-versionCode="1"
         version   = "1.0.0">
     <name>Kenya Exams</name>
 
